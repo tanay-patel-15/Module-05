@@ -1,0 +1,5 @@
+The test results show that the factorial of zero  is one.
+For positive integers n greater than or equal to 1, the factorial of n is the product of all positive integers less than or equal to n.
+And if the user asks for the factorial of a negative number, a ValueError is raised.
+
+Running the test gives us the results which indicate the factorial function is working perfectly fine. 
